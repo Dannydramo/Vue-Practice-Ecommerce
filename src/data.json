@@ -1,0 +1,65 @@
+[
+    {
+        "item_name": "Product 1",
+        "id": 1,
+        "url": "img2.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 6",
+        "liked": false
+    },
+    {
+        "item_name": "Product 2",
+        "id": 2,
+        "url": "img1.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 2",
+        "liked": false
+    },
+    {
+        "item_name": "Product 3",
+        "id": 3,
+        "url": "img4.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 1",
+        "liked": false
+    },
+    {
+        "item_name": "Product 4",
+        "id": 4,
+        "url": "img6.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 5",
+        "liked": false
+    },
+    {
+        "item_name": "Product 5",
+        "id": 5,
+        "url": "img3.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 4",
+        "liked": false
+    },
+    {
+        "item_name": "Product 6",
+        "id": 6,
+        "url": "img1.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N10,000",
+        "prod": "Test User 7",
+        "liked": false
+    },
+    {
+        "item_name": "Product 7",
+        "id": 7,
+        "url": "img2.avif",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ullam magni quod fugit consequatur beatae consectetur nam pariatur amet? Omnis soluta voluptatibus, quis nesciunt consequuntur velit harum tenetur vero sapiente.",
+        "price": "N60,000",
+        "prod": "Alumandu",
+        "liked": false
+    }
+]
